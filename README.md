@@ -27,7 +27,7 @@ While the business successfully expands its revenue footprint, top-line sales gr
 ## 📢 Business Presentation
 I have prepared a strategic analytical presentation based on this Power BI report, highlighting the core business insights, identified leaks, and data-driven recommendations for stakeholders.
 
-👉 **[View the Executive Presentation (PDF)](./Retail_Store_Analysis_Presentation.pdv)**
+👉 **[View the Executive Presentation (PDF)](./Retail_Store_Analysis_Presentation.pdf)**
 
 ---
 ## 📂 Repository Contents
