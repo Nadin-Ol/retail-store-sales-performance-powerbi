@@ -24,8 +24,17 @@ This project focuses on building a production-ready, multi-page Power BI dashboa
 While the business successfully expands its revenue footprint, top-line sales growth will fail to convert into bottom-line net profit without a systematic optimization of the discounting policy and immediate correction of logistical inefficiencies.
 
 ---
-##  Repository Contents
+## 📢 Business Presentation
+I have prepared a strategic analytical presentation based on this Power BI report, highlighting the core business insights, identified leaks, and data-driven recommendations for stakeholders.
+
+👉 **[View the Executive Presentation (PDF)](./Retail_Store_Analysis_Presentation.pdf)**
+
+---
+## 📂 Repository Contents
 * `Retail_Store_Performance_Suite.pbix` — Full Power BI Desktop application file (including Data Model, Power Query M steps, and layouts).
+* `Retail_Store_Analysis_Presentation.pdf` — PDF version of the business presentation.
 * `README.md` — Strategic business brief.
 
 *For a comprehensive view of my analytics workflow, interactive live reports, and complete case studies, visit my **[Notion Portfolio](ВСТАВТЕ_СЮДИ_ПОСИЛАННЯ_НА_ВАШ_NOTION)**.*
+
+
