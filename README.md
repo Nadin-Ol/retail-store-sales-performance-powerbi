@@ -35,6 +35,6 @@ I have prepared a strategic analytical presentation based on this Power BI repor
 * `Retail_Store_Analysis_Presentation.pdf` — PDF version of the business presentation.
 * `README.md` — Strategic business brief.
 
-*For a comprehensive view of my analytics workflow, interactive live reports, and complete case studies, visit my **[Notion Portfolio](ВСТАВТЕ_СЮДИ_ПОСИЛАННЯ_НА_ВАШ_NOTION)**.*
+*For a comprehensive view of my analytics workflow, interactive live reports, and complete case studies, visit my **[Notion Portfolio](https://potent-quotation-9f2.notion.site/37873967d031800abd39c35bda1bdd0d?v=37873967d031802c8215000c98a0e61b&source=copy_link)**.*
 
 
